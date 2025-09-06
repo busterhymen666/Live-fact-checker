@@ -1,0 +1,2 @@
+rootProject.name = "LiveFactChecker"
+include ':app'
